@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjisampangi&label=Profile%20views&color=0e75b6&style=flat" alt="anjisampangi" /> </p>
 
-- 🌱 I’m currently completed **MERN Stack**
+- 🌱 I’m a Software Developer At **Ecorfy Inc**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anjisampangi?tab=repositories](https://github.com/anjisampangi?tab=repositories)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sampangianjaneyulu912@gmail.com**
 
-- 📄 Know about my experiences [I,M Fresher](I,M Fresher)
+- 📄 Know about my experiences, Present 6 months of experience in Software Developing.
 
 - ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
